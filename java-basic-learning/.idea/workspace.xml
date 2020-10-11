@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc060258-2038-4ff5-8bf4-e28c998798bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week1/Example2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/Example2_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +50,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Example2_6">
+  <component name="RunManager" selected="Application.Example2_2">
     <configuration name="Example2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Example2_2" />
-      <module name="java-basic-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example2_3" />
       <module name="java-basic-learning" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.Example2_7" />
+      <module name="java-basic-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example2_2" />
+        <item itemvalue="Application.Example2_7" />
         <item itemvalue="Application.Example2_6" />
         <item itemvalue="Application.Example2_5" />
         <item itemvalue="Application.Example2_4" />
-        <item itemvalue="Application.Example2_3" />
-        <item itemvalue="Application.Example2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,8 @@
       <workItem from="1602067225844" duration="1497000" />
       <workItem from="1602143659474" duration="668000" />
       <workItem from="1602233941153" duration="915000" />
-      <workItem from="1602297992140" duration="638000" />
+      <workItem from="1602297992140" duration="746000" />
+      <workItem from="1602379918097" duration="593000" />
     </task>
     <servers />
   </component>
@@ -149,30 +150,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1602234874745">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1602298749577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602234874745" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1602234874745">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1602298749577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602234874745" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1602234874745">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1602298749577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602234874745" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1602234874745">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1602298749577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602234874745" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1601990084014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601990084014" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602297990567">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602379918345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602297990567" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602379918345" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602068226959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
