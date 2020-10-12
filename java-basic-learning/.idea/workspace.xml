@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc060258-2038-4ff5-8bf4-e28c998798bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week1/Example2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week2/TestGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/com/czhang/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/com/czhang/java/week1/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Example2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czhang/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czhang/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czhang/java/week1/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czhang/java/week1/ArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -29,9 +58,16 @@
         <option name="userSettingsFile" value="D:\安装\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1iSeK1J12EUxVi9ZV3mnFkeTA9k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,50 +84,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Example2_2">
+  <component name="RunManager" selected="Application.Example2_8">
     <configuration name="Example2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Example2_2" />
-      <module name="java-basic-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example2_4" />
-      <module name="java-basic-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example2_5" />
-      <module name="java-basic-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example2_6" />
       <module name="java-basic-learning" />
       <extension name="coverage">
         <pattern>
@@ -116,15 +116,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Example2_8" />
+      <module name="java-basic-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="java-basic-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.TestGroup" />
+      <module name="java-basic-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example2_8" />
+        <item itemvalue="Application.TestGroup" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Example2_2" />
         <item itemvalue="Application.Example2_7" />
-        <item itemvalue="Application.Example2_6" />
-        <item itemvalue="Application.Example2_5" />
-        <item itemvalue="Application.Example2_4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,7 +178,11 @@
       <workItem from="1602143659474" duration="668000" />
       <workItem from="1602233941153" duration="915000" />
       <workItem from="1602297992140" duration="746000" />
-      <workItem from="1602379918097" duration="593000" />
+      <workItem from="1602379918097" duration="731000" />
+      <workItem from="1602421253199" duration="4000" />
+      <workItem from="1602481420490" duration="491000" />
+      <workItem from="1602481968789" duration="8705000" />
+      <workItem from="1602500683260" duration="5191000" />
     </task>
     <servers />
   </component>
@@ -150,30 +190,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1602298749577">
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602503709095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1602298749577">
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1602503709095" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602503041670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1602298749577">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602503041670" />
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1602504971166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1602298749577">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1602504971166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602298749577" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1601990084014">
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1602504971165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601990084014" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602379918345">
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602504971165" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1602504971166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602379918345" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
+    <state x="340" y="6" width="996" height="707" key="SettingsEditor" timestamp="1602505657436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="340" y="6" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602505657436" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602500709787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602500709787" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602068226959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
