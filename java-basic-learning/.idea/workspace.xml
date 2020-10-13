@@ -12,6 +12,17 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Phone.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Week2/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Week2/TestGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/java-basic-learning.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week2/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week2/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week2/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Week2/TestGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czhang/java/week1/ArrayTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-basic-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic-learning.iml" afterDir="false" />
@@ -19,10 +30,10 @@
       <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Week1/Example2_6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/Week1/Example2_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/com/czhang/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/com/czhang/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czhang/java/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-basic-learning/com/czhang/java/week1/ArrayTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week1/Example2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_2.java" afterDir="false" />
@@ -31,7 +42,7 @@
       <change beforePath="$PROJECT_DIR$/src/Week1/Example2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week1/Example2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Week1/Example2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week1/Example2_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/czhang/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czhang/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/czhang/java/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/czhang/java/week1/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czhang/java/week1/ArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,22 +100,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Example2_8">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Example2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Example2_2" />
-      <module name="java-basic-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1.Example2_7" />
       <module name="java-basic-learning" />
       <extension name="coverage">
         <pattern>
@@ -136,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second.Main" />
+      <module name="java-basic-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.TestGroup" />
       <module name="java-basic-learning" />
@@ -151,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Example2_8" />
         <item itemvalue="Application.TestGroup" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Example2_2" />
-        <item itemvalue="Application.Example2_7" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +193,7 @@
       <workItem from="1602421253199" duration="4000" />
       <workItem from="1602481420490" duration="491000" />
       <workItem from="1602481968789" duration="8705000" />
-      <workItem from="1602500683260" duration="5191000" />
+      <workItem from="1602500683260" duration="5358000" />
     </task>
     <servers />
   </component>
@@ -198,30 +209,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602503041670" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1602504971166">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1602506092376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1602504971166">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602506092376" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1602506092376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1602504971165">
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602506092376" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1602506092375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602504971165" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1602504971166">
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602506092375" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1602506092376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602504971166" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602506092376" />
     <state x="340" y="6" width="996" height="707" key="SettingsEditor" timestamp="1602505657436">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="340" y="6" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602505657436" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602500709787">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602578012236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602500709787" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602578012236" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602068226959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
